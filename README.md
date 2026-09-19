@@ -1,3 +1,8 @@
+| Resource | URL |
+|---|---|
+| **GitHub Repository** | https://github.com/shivani1707/DS_churn_project|
+
+
 # Telco Customer Churn Prediction
 
 ## 1. Project Overview
