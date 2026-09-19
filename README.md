@@ -29,7 +29,7 @@ customer_churn_project/
 │
 ├── notebook/
 │   └── churn_analysis.ipynb
-│   └── churn_model.pkl
+│   └── telco_churn_model.pkl
 │
 ├── app.py
 ├── requirements.txt
